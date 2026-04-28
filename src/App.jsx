@@ -64,6 +64,36 @@ const templates = [
     tags: ["9:16 Source", "After Effects", "Classic"],
     sourceAspect: "9:16",
   },
+  {
+    id: 7,
+    title: "Remo Inspired Wedding Invitation Template",
+    description: "Movie-inspired wedding invitation with colorful, energetic styling.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/movie-templates/remo-inspired-wedding-invitation-template/remo-inspired-wedding-invitation-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/movie-templates/remo-inspired-wedding-invitation-template/remo-inspired-wedding-invitation-template.mp4",
+    tags: ["16:9", "After Effects", "Movie Template"],
+  },
+  {
+    id: 8,
+    title: "Retro Style Save Date Template",
+    description: "Retro-inspired save-the-date edit with a nostalgic visual tone.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/retro-style-save-date-template-after-effects-celite/retro-style-save-date-template-after-effects-celite.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/retro-style-save-date-template-after-effects-celite/retro-style-save-date-template-after-effects-celite.mp4",
+    tags: ["16:9", "After Effects", "Save Date"],
+  },
+  {
+    id: 9,
+    title: "School Thema Save The Date Template",
+    description: "Fun school-theme concept for playful and memorable save-the-date videos.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/school-thema-save-the-date-template/school-thema-save-the-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/school-thema-save-the-date-template/school-thema-save-the-date-template.mp4",
+    tags: ["16:9", "After Effects", "Theme Style"],
+  },
 ];
 
 function TemplateCard({ template, onOpenPreview }) {
