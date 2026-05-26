@@ -94,6 +94,36 @@ const templates = [
       "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/school-thema-save-the-date-template/school-thema-save-the-date-template.mp4",
     tags: ["16:9", "After Effects", "Theme Style"],
   },
+  {
+    id: 10,
+    title: "Christian Style Save Date Template",
+    description: "Elegant Christian-themed save-the-date template with warm cinematic tone.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/christian-style-save-date-template/christian-style-save-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/christian-style-save-date-template/christian-style-save-date-template.mp4",
+    tags: ["16:9", "After Effects", "Save Date"],
+  },
+  {
+    id: 11,
+    title: "Elegant Floral Wedding Invite",
+    description: "Floral wedding invite design with soft aesthetic and classy transitions.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/elegant-floral-wedding-invite/elegant-floral-wedding-invite.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/elegant-floral-wedding-invite/elegant-floral-wedding-invite.mp4",
+    tags: ["16:9", "After Effects", "Floral"],
+  },
+  {
+    id: 12,
+    title: "Cinematic Style Save Date Template",
+    description: "Cinematic style save-the-date template for high-impact wedding previews.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/cinematic-style-save-date-template/cinematic-style-save-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/cinematic-style-save-date-template/cinematic-style-save-date-template.mp4",
+    tags: ["16:9", "After Effects", "Cinematic"],
+  },
 ];
 
 function TemplateCard({ template, onOpenPreview }) {
