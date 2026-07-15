@@ -124,6 +124,66 @@ const templates = [
       "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/cinematic-style-save-date-template/cinematic-style-save-date-template.mp4",
     tags: ["16:9", "After Effects", "Cinematic"],
   },
+  {
+    id: 13,
+    title: "Vintage Floral Wedding Invitation",
+    description: "A vintage floral themed wedding invitation design.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/save-date/vintage-floral-wedding-invitation/vintage-floral-wedding-invitation.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/save-date/vintage-floral-wedding-invitation/vintage-floral-wedding-invitation.mp4",
+    tags: ["16:9", "After Effects", "Wedding"],
+  },
+  {
+    id: 14,
+    title: "Marron Style Save Date Template",
+    description: "Elegant marron style save-the-date template.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/marron-style-save-date-template/marron-style-save-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/marron-style-save-date-template/marron-style-save-date-template.mp4",
+    tags: ["16:9", "After Effects", "Save Date"],
+  },
+  {
+    id: 15,
+    title: "Royal Style Save Date Template",
+    description: "Luxurious royal style save-the-date template.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/royal-style-save-date-template/royal-style-save-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/royal-style-save-date-template/royal-style-save-date-template.mp4",
+    tags: ["16:9", "After Effects", "Save Date"],
+  },
+  {
+    id: 16,
+    title: "Notebook Wedding Invitation",
+    description: "Creative notebook themed wedding invitation.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/save-date/notebook-wedding-invitation/notebook-wedding-invitation.jpg",
+    video:
+      "https://preview.celite.in/preview/video/save-date/notebook-wedding-invitation/notebook-wedding-invitation.mp4",
+    tags: ["16:9", "After Effects", "Wedding"],
+  },
+  {
+    id: 17,
+    title: "Royal Wedding",
+    description: "Premium royal wedding template design.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/royal-wedding/royal-wedding.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/royal-wedding/royal-wedding.mp4",
+    tags: ["16:9", "After Effects", "Wedding"],
+  },
+  {
+    id: 18,
+    title: "Muslim Style Save Date Template",
+    description: "Traditional Muslim style save-the-date template.",
+    thumbnail:
+      "https://preview.celite.in/preview/thumbnail/video-templates/after-effects/slides/muslim-style-save-date-template/muslim-style-save-date-template.jpg",
+    video:
+      "https://preview.celite.in/preview/video/video-templates/after-effects/slides/muslim-style-save-date-template/muslim-style-save-date-template.mp4",
+    tags: ["16:9", "After Effects", "Save Date"],
+  },
 ];
 
 function TemplateCard({ template, onOpenPreview }) {
